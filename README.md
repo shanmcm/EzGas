@@ -1,6 +1,6 @@
 # EZGas
 
-SE 2020 project @PoliTO under supervision of Prof. Maurizio Morision and Luca Ardito
+SE 2020 project @PoliTO under supervision of Prof. Maurizio Morisio and Luca Ardito
 
 EZGas is a crowdsourcing service that allows users to:
 * collect prices of fuels in different gas stations
